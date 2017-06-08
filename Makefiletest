@@ -1,0 +1,3 @@
+all: 
+	gcc -O0 testmain.c -o test
+	
